@@ -1,0 +1,11 @@
+MS office to python conversion
+
+1- DOC TO PDF:
+	a- using win32 - ok
+	b- using comtypes - ok
+
+2- PPT TO PDF:
+	a- using win32 
+	b- using comtypes
+	
+	Note : both are opening powerpoint-application so there is confusion whether they work on VPS or not?
